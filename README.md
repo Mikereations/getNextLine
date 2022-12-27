@@ -1,2 +1,2 @@
 # getNextLine
-readsfromafiledescriptor
+reads from a file descriptor
